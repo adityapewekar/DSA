@@ -1,0 +1,14 @@
+D:\Aditya\Projects\DSA\ConsoleApplicationURLify\bin\Debug\net7.0\ConsoleApplicationURLify.exe
+D:\Aditya\Projects\DSA\ConsoleApplicationURLify\bin\Debug\net7.0\ConsoleApplicationURLify.deps.json
+D:\Aditya\Projects\DSA\ConsoleApplicationURLify\bin\Debug\net7.0\ConsoleApplicationURLify.runtimeconfig.json
+D:\Aditya\Projects\DSA\ConsoleApplicationURLify\bin\Debug\net7.0\ConsoleApplicationURLify.dll
+D:\Aditya\Projects\DSA\ConsoleApplicationURLify\bin\Debug\net7.0\ConsoleApplicationURLify.pdb
+D:\Aditya\Projects\DSA\ConsoleApplicationURLify\obj\Debug\net7.0\ConsoleApplicationURLify.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aditya\Projects\DSA\ConsoleApplicationURLify\obj\Debug\net7.0\ConsoleApplicationURLify.AssemblyInfoInputs.cache
+D:\Aditya\Projects\DSA\ConsoleApplicationURLify\obj\Debug\net7.0\ConsoleApplicationURLify.AssemblyInfo.cs
+D:\Aditya\Projects\DSA\ConsoleApplicationURLify\obj\Debug\net7.0\ConsoleApplicationURLify.csproj.CoreCompileInputs.cache
+D:\Aditya\Projects\DSA\ConsoleApplicationURLify\obj\Debug\net7.0\ConsoleApplicationURLify.dll
+D:\Aditya\Projects\DSA\ConsoleApplicationURLify\obj\Debug\net7.0\refint\ConsoleApplicationURLify.dll
+D:\Aditya\Projects\DSA\ConsoleApplicationURLify\obj\Debug\net7.0\ConsoleApplicationURLify.pdb
+D:\Aditya\Projects\DSA\ConsoleApplicationURLify\obj\Debug\net7.0\ConsoleApplicationURLify.genruntimeconfig.cache
+D:\Aditya\Projects\DSA\ConsoleApplicationURLify\obj\Debug\net7.0\ref\ConsoleApplicationURLify.dll

@@ -1,0 +1,14 @@
+D:\Aditya\Projects\DSA\ConsoleApplicationZeroMatrix\bin\Debug\net7.0\ConsoleApplicationZeroMatrix.exe
+D:\Aditya\Projects\DSA\ConsoleApplicationZeroMatrix\bin\Debug\net7.0\ConsoleApplicationZeroMatrix.deps.json
+D:\Aditya\Projects\DSA\ConsoleApplicationZeroMatrix\bin\Debug\net7.0\ConsoleApplicationZeroMatrix.runtimeconfig.json
+D:\Aditya\Projects\DSA\ConsoleApplicationZeroMatrix\bin\Debug\net7.0\ConsoleApplicationZeroMatrix.dll
+D:\Aditya\Projects\DSA\ConsoleApplicationZeroMatrix\bin\Debug\net7.0\ConsoleApplicationZeroMatrix.pdb
+D:\Aditya\Projects\DSA\ConsoleApplicationZeroMatrix\obj\Debug\net7.0\ConsoleApplicationZeroMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aditya\Projects\DSA\ConsoleApplicationZeroMatrix\obj\Debug\net7.0\ConsoleApplicationZeroMatrix.AssemblyInfoInputs.cache
+D:\Aditya\Projects\DSA\ConsoleApplicationZeroMatrix\obj\Debug\net7.0\ConsoleApplicationZeroMatrix.AssemblyInfo.cs
+D:\Aditya\Projects\DSA\ConsoleApplicationZeroMatrix\obj\Debug\net7.0\ConsoleApplicationZeroMatrix.csproj.CoreCompileInputs.cache
+D:\Aditya\Projects\DSA\ConsoleApplicationZeroMatrix\obj\Debug\net7.0\ConsoleApplicationZeroMatrix.dll
+D:\Aditya\Projects\DSA\ConsoleApplicationZeroMatrix\obj\Debug\net7.0\refint\ConsoleApplicationZeroMatrix.dll
+D:\Aditya\Projects\DSA\ConsoleApplicationZeroMatrix\obj\Debug\net7.0\ConsoleApplicationZeroMatrix.pdb
+D:\Aditya\Projects\DSA\ConsoleApplicationZeroMatrix\obj\Debug\net7.0\ConsoleApplicationZeroMatrix.genruntimeconfig.cache
+D:\Aditya\Projects\DSA\ConsoleApplicationZeroMatrix\obj\Debug\net7.0\ref\ConsoleApplicationZeroMatrix.dll

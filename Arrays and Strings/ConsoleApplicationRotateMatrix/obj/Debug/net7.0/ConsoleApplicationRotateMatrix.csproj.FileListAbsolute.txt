@@ -1,0 +1,14 @@
+D:\Aditya\Projects\DSA\ConsoleApplicationRotateMatrix\bin\Debug\net7.0\ConsoleApplicationRotateMatrix.exe
+D:\Aditya\Projects\DSA\ConsoleApplicationRotateMatrix\bin\Debug\net7.0\ConsoleApplicationRotateMatrix.deps.json
+D:\Aditya\Projects\DSA\ConsoleApplicationRotateMatrix\bin\Debug\net7.0\ConsoleApplicationRotateMatrix.runtimeconfig.json
+D:\Aditya\Projects\DSA\ConsoleApplicationRotateMatrix\bin\Debug\net7.0\ConsoleApplicationRotateMatrix.dll
+D:\Aditya\Projects\DSA\ConsoleApplicationRotateMatrix\bin\Debug\net7.0\ConsoleApplicationRotateMatrix.pdb
+D:\Aditya\Projects\DSA\ConsoleApplicationRotateMatrix\obj\Debug\net7.0\ConsoleApplicationRotateMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aditya\Projects\DSA\ConsoleApplicationRotateMatrix\obj\Debug\net7.0\ConsoleApplicationRotateMatrix.AssemblyInfoInputs.cache
+D:\Aditya\Projects\DSA\ConsoleApplicationRotateMatrix\obj\Debug\net7.0\ConsoleApplicationRotateMatrix.AssemblyInfo.cs
+D:\Aditya\Projects\DSA\ConsoleApplicationRotateMatrix\obj\Debug\net7.0\ConsoleApplicationRotateMatrix.csproj.CoreCompileInputs.cache
+D:\Aditya\Projects\DSA\ConsoleApplicationRotateMatrix\obj\Debug\net7.0\ConsoleApplicationRotateMatrix.dll
+D:\Aditya\Projects\DSA\ConsoleApplicationRotateMatrix\obj\Debug\net7.0\refint\ConsoleApplicationRotateMatrix.dll
+D:\Aditya\Projects\DSA\ConsoleApplicationRotateMatrix\obj\Debug\net7.0\ConsoleApplicationRotateMatrix.pdb
+D:\Aditya\Projects\DSA\ConsoleApplicationRotateMatrix\obj\Debug\net7.0\ConsoleApplicationRotateMatrix.genruntimeconfig.cache
+D:\Aditya\Projects\DSA\ConsoleApplicationRotateMatrix\obj\Debug\net7.0\ref\ConsoleApplicationRotateMatrix.dll
